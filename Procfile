@@ -1,1 +1,1 @@
-web: ./rusttest10
+web: go run main.go
